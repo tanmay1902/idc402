@@ -1,6 +1,7 @@
-# Python scripts used in "Directed evolution of DNA strands effectively selects for reservoir computing networks capable of multiple tasks"
+# Python scripts used in Project "Criticality in DNA-Based Neuromorphic Reservoir
+Networks via Damage Spreading"
 
-Set of python scripts used in "*Directed evolution of DNA strands effectively selects for reservoir computing networks capable of multiple tasks*".
+Set of python scripts based upon work in "*Directed evolution of DNA strands effectively selects for reservoir computing networks capable of multiple tasks*".
 Tanmay Pandey, Petro Feketa, Jan Steinkühler
 
 ## Setup
@@ -70,3 +71,7 @@ The *main* repository contains the file used in the simulation.
 6. ***random_connections.py*** : make random connections in the network with a probability.
 7. ***random.py*** : the file to draw random array from given range
 8. ***wlc.py*** : calculate force by DNA strands using worm-like-chain model
+
+# How to use ?
+
+Run the Exp-IDC402.py code to get the results.
